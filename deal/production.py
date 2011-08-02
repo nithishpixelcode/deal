@@ -1,0 +1,2 @@
+
+from deal.settings import *
